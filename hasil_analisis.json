@@ -1,0 +1,73 @@
+{
+  "total_todo": 200,
+  "total_selesai": 90,
+  "ranking_user": [
+    {
+      "userId": 5,
+      "jumlah_selesai": 12
+    },
+    {
+      "userId": 10,
+      "jumlah_selesai": 12
+    },
+    {
+      "userId": 1,
+      "jumlah_selesai": 11
+    },
+    {
+      "userId": 8,
+      "jumlah_selesai": 11
+    },
+    {
+      "userId": 7,
+      "jumlah_selesai": 9
+    },
+    {
+      "userId": 2,
+      "jumlah_selesai": 8
+    },
+    {
+      "userId": 9,
+      "jumlah_selesai": 8
+    },
+    {
+      "userId": 3,
+      "jumlah_selesai": 7
+    },
+    {
+      "userId": 4,
+      "jumlah_selesai": 6
+    },
+    {
+      "userId": 6,
+      "jumlah_selesai": 6
+    }
+  ],
+  "contoh_todo_selesai": [
+    {
+      "id": 4,
+      "userId": 1,
+      "title": "Et Porro Tempora"
+    },
+    {
+      "id": 8,
+      "userId": 1,
+      "title": "Quo Adipisci Enim Quam Ut Ab"
+    },
+    {
+      "id": 10,
+      "userId": 1,
+      "title": "Illo Est Ratione Doloremque Quia Maiores Aut"
+    },
+    {
+      "id": 11,
+      "userId": 1,
+      "title": "Vero Rerum Temporibus Dolor"
+    },
+    {
+      "id": 12,
+      "userId": 1,
+      "title": "Ipsa Repellendus Fugit Nisi"
+    }
+  ]
+}
